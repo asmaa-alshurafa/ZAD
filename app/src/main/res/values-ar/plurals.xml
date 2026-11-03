@@ -1,0 +1,10 @@
+<resources>
+    <plurals name="book_count">
+        <item quantity="zero">لا توجد كتب</item>
+        <item quantity="one">كتاب واحد</item>
+        <item quantity="two">كتابان</item>
+        <item quantity="few">%d كتب</item>
+        <item quantity="many">%d كتابًا</item>
+        <item quantity="other">%d كتاب</item>
+    </plurals>
+</resources>
